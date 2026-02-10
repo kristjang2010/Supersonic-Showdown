@@ -48,31 +48,20 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
 
 
 Spil
+| Mechs  |  Rumble |
+| ------------- | ------------- |
+| Demolition  | Magnetizer/segull  |
+| Flip reset  | Heymaker (punch)/boxhanski  |
+| Half flip  | The Boot/stígvélaði  |
+| Wave dash  | Tornado/hvirfilbylur  |
+| Double tap  | Power hitter (fist)/guli hnefinn  |
+| Wall dash  | Grappling Hook/krækjan  |
+| Psycho  | Disruptor (speed)/hraðarinn  |
+| Speed flip  | Plunger/drullusokkur  |
+| Flick  | Spike/gaddar  |
+| Bump  | Freezer/frystir  |
+| Pinch  | Swapper/skiptir  |
 
-Mechs
-Rumble
-Demolition
-Magnetizer/segull
-Flip reset
-The Boot/stígvélaði
-Half flip
-Heymaker (punch)/boxhanski
-Wave dash
-Tornado/hvirfilbylur
-Double tap
-Grappling Hook/krækjan
-Wall dash
-Power hitter (fist)/guli hnefinn
-Psycho
-Disruptor (speed)/hraðarinn
-Speed flip
-Plunger/drullusokkur
-Flick
-Spike/gaddar
-Bump
-Freezer/frystir
-Pinch
-Swapper/skiptir
 
 
 Mechs
