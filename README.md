@@ -1,5 +1,5 @@
 # Super Sonic Showdown-reglur
-\
+
 # Reglur
 
 Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja þeir leikmannin á BYRJA reitinn. Allir leikmenn ætla að kasta teningnum einu sinni og sá sem fær hæstu töluna byrjar. Svo kasta allir leikmennirnir teningnum einn á eftir öðrum. Á reitunum sem leikmenn lenda á þar gerist einhvað.
