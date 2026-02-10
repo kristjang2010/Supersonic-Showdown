@@ -113,6 +113,8 @@ Champion | Þarft að vinna tvo leiki til að fara upp um rank
 Grand champion | Þarft að vinna þrjá leiki til að fara upp um rank
 Super Sonic Legend | Vinnur
 
+#### Kick of
+Stundum yfir leikin mun svo lýsast ljós á miðju borðsins sá sem er fyrstur að ýta á takkan í miðjunni fær rank up
 
 
 ### Spilin
