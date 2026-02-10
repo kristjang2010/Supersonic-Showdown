@@ -62,20 +62,21 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
 | Bump  | Freezer/frystir  |
 | Pinch  | Swapper/skiptir  |
 
+## Mechs
+| Nafn  |  Hvað það gerir |
+| ------------- | ------------- |
+Demolition | hinn gæjinn tapar strax, þarf að nota áður en kastað
+Flip reset | færð að kasta 2 teningum, þarf að nota áður en kastað
+Half Flip | færð +2 við næsta kast, þarf að nota áður en kastað
+Wave dash | kastar aftur ef þú færð látt kast eða vilt kasta aftur (þarft að ákveða áður en hinn gerir)
+Double tap | ef hinn notar rumble spil þá virkar það ekki ef þú notar þetta spil, ræður hvort það er notað fyrir eða eftir köstin 
+Wall dash | Ef þú notar þetta spil þá máttu kasta tvisvar en ef hinn leikmaður gerir einu sinni á undan þér þá vinnur hann leikinn
+Psycho | vinnur strax ef þú notar þetta spil
+Speed flip | ef næsta kast er 3 þá vinnuru ef þú notar spjaldið, þarf að nota áður en kastað
+Flick | færð +3 við næsta kast, þarf að nota áður en kastað
+Bump | hinn fær -1 við næsta kast, þarf að nota áður en kastað
+Pinch | ef þú kastar 5 eða 6 þá vinnuru ef ekki þá tapar þú, þarf að nota áður en kastað
 
-
-Mechs
-r spjaldið, þarf að nota áður en kastað
-Flick = færð +3 við næsta kast, þarf að nota áður en kastað
-Bump = hinn fær -1 við næsta kast, þarf að nota áður en kastaðDemolition = hinn gæjinn tapar strax, þarf að nota áður en kastað
-Flip reset = færð að kasta 2 teningum, þarf að nota áður en kastað
-Half Flip = færð +2 við næsta kast, þarf að nota áður en kastað
-Wave dash = kastar aftur ef þú færð látt kast eða vilt kasta aftur (þarft að ákveða áður en hinn gerir)
-Double tap = ef hinn notar rumble spil þá virkar það ekki ef þú notar þetta spil, ræður hvort það er notað fyrir eða eftir köstin 
-Wall dash = Ef þú notar þetta spil þá máttu kasta tvisvar en ef hinn leikmaður gerir einu sinni á undan þér þá vinnur hann leikinn
-Psycho = vinnur strax ef þú notar þetta spil
-Speed flip = ef næsta kast er 3 þá vinnuru ef þú nota
-Pinch = ef þú kastar 5 eða 6 þá vinnuru ef ekki þá tapar þú, þarf að nota áður en kastað
 
 
 Rumble
