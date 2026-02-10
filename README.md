@@ -84,9 +84,9 @@ Pinch | ef þú kastar 5 eða 6 þá vinnuru ef ekki þá tapar þú, þarf að 
 ### Rumble
 | Nafn     | Hvað það gerir |
 | ---      | ---       |
-| Magnetizer/segull | +2 við kastið þitt, þarf að nota áður en kastað |
-| The Boot/stígvélaði | -2 við næsta kast andstæðings, þarf að nota áður en kastað |
-| Heymaker (punch)/boxhanski | +1, þarf að nota áður en kastað |
+Magnetizer/segull | +2 við kastið þitt, þarf að nota áður en kastað 
+The Boot/stígvélaði | -2 við næsta kast andstæðings, þarf að nota áður en kastað 
+Heymaker (punch)/boxhanski | +1, þarf að nota áður en kastað 
 Tornado/hvirfilbylur | allir leikmenn kasta aftur, ræður fyrir eða eftir
 Grappling Hook/krækjan | getur gert önnur spil óvirk, t.d. ef leikmaður 1 nota spikes og leikmaður 2 notar grapling hook þá fær leikmaður 1 ekki +1, ræður fyrir eða eftir
 Power hitter (fist)/guli hnefinn | ef þú færð kast yfir 4 þá færðu +2 ef þú færð kast undir 3 þá færðu -2, þarf að nota áður en kastað
