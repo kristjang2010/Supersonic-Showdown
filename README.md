@@ -7,14 +7,9 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
 Þetta eru algengustu reitirnir til að lenda á og þeir gera eftirfarandi:
 
 	Solo queue
-		Leikmaður kastar teningi, ef hann kastar 1-3 þá fer hann niður um rank, 4-5 
-ekkert gerist og 6 rank up.
+		Leikmaður kastar teningi, ef hann kastar 1-3 þá fer hann niður um rank, 4-5 ekkert gerist og 6 rank up.
 	1v1
-		Leikur og þú ræður við hvaða spilara þú spilar við. Báðir leikmenn taka einn 
-tening og kasta honum, sá sem fær hærri tölu vinnur og rankar upp hinn 
-rankar niður (ekki hægt að ranka lægra en bronze). Leikmenn geta svo notað 
-allskonar spil til að hjálpa sér t.d. mechs sem bæta við kastið þitt og rumble 
-sem dregur frá kasti andstæðings
+		Leikur og þú ræður við hvaða spilara þú spilar við. Báðir leikmenn taka einn tening og kasta honum, sá sem fær hærri tölu vinnur og rankar upp hinn rankar niður (ekki hægt að ranka lægra en bronze). Leikmenn geta svo notað allskonar spil til að hjálpa sér t.d. mechs sem bæta við kastið þitt og rumble sem dregur frá kasti andstæðings
 	Rumble
 		+1 Rumble spil.
 	Freeplay
@@ -32,9 +27,7 @@ sem dregur frá kasti andstæðings
 	Byrja
 		Reiturinn sem allir leikmenn byrja á.
 	Rule one
-		Rule one virkar eins og fangelsi í Monopoly, þú verður þar í þrjár umferðir ef 
-þú annað hvort dregur spil sem segir þér að fara í rule one eða lendir á “Beint 
-í rule one”.
+		Rule one virkar eins og fangelsi í Monopoly, þú verður þar í þrjár umferðir ef þú lendir á “Beint í rule one”.
 	Rank up
 		Einfaldur takki þú ferð upp um rank.
 	Beint í rule one
