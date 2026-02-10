@@ -1,1 +1,1 @@
-# Spil-reglur
+# Super Sonic Showdown-reglur
