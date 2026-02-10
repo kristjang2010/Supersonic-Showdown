@@ -95,23 +95,15 @@ Swapper/skiptir | Skiptið köstunum ykkar svo ef þú kastar 6 og hinn fær 4 �
 Markmið
 Markmiðið er einfaldlega að verða Super Sonic legend eða SSL sem er hæsta rankið í Rocket league.
 
-
-Bronze
-Þarft að vinna einn leik til að fara upp um rank
-Silver
-Þarft að vinna einn leik til að fara upp um rank
-Gold
-Þarft að vinna einn leik til að fara upp um rank
-Platinum
-Þarft að vinna einn leik til að fara upp um rank
-Diamond
-Þarft að vinna tvo leiki til að fara upp um rank
-Champion
-Þarft að vinna tvo leiki til að fara upp um rank
-Grand champion
-Þarft að vinna þrjá leiki til að fara upp um rank
-Super Sonic Legend
-Vinnur
+| Rank  |  Hversu marga leiki þarf að vinna |
+Bronze | Þarft að vinna einn leik til að fara upp um rank
+Silver | Þarft að vinna einn leik til að fara upp um rank
+Gold | Þarft að vinna einn leik til að fara upp um rank
+Platinum | Þarft að vinna einn leik til að fara upp um rank
+Diamond | Þarft að vinna tvo leiki til að fara upp um rank
+Champion | Þarft að vinna tvo leiki til að fara upp um rank
+Grand champion | Þarft að vinna þrjá leiki til að fara upp um rank
+Super Sonic Legend | Vinnur
 
 
 
