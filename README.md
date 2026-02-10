@@ -1,4 +1,8 @@
-# Super Sonic Showdown-reglur
+# Super Sonic Showdown
+
+## Ingangur
+Þetta spil gerðu Húgó og Kristján og er spilið innblásið af tölvuleiknum Rocket league. Hugmynding var sú að gera monopoly útgáfu af Rocket league og byrjuðum við þar svo þegar við fórum að hugsa þá fannst okkur 
+hljóma skemmtilegra að hafa "ranking" system til að vinna spilið. Allir leikmenn byrja í lægsta rankinu "Bronze" og er markmiðið að ná SSL sem er hæsta rankið. Á spilaborðinu eru svo fullt af reitum sem geta hjálpað þér að komast í næsta rank. Nokkrir hjálpa þér í leikjunum en aðrir skemma fyrir þér.
 
 ## Reglur
 
