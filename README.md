@@ -96,6 +96,7 @@ Markmið
 Markmiðið er einfaldlega að verða Super Sonic legend eða SSL sem er hæsta rankið í Rocket league.
 
 | Rank  |  Hversu marga leiki þarf að vinna |
+| ------------- | ------------- |
 Bronze | Þarft að vinna einn leik til að fara upp um rank
 Silver | Þarft að vinna einn leik til að fara upp um rank
 Gold | Þarft að vinna einn leik til að fara upp um rank
