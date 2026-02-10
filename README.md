@@ -96,7 +96,7 @@ Spike/gaddar | +1 við kastið þitt, þarf að nota áður en kastað
 Freezer/frystir | ekki hægt að nota önnur spjöld, ef leikmaður 1 notar þetta þá getur leikmaður 2 ekki notað annað spil, ef leikmaður 2 er á undan að setja spil niður og svo setur leikmaður 1 niður freeze þá virkar spilið sem leikmaður tvo setti niður, þarf að nota áður en kastað
 Swapper/skiptir | Skiptið köstunum ykkar svo ef þú kastar 6 og hinn fær 4 þá færð þú 4 og hinn 6, þanning svissið teningunum ykkar/köstunum ykkar, ræður fyrir eða eftir 
 
-Markmið
+## Markmið
 Markmiðið er einfaldlega að verða Super Sonic legend eða SSL sem er hæsta rankið í Rocket league.
 
 | Rank  |  Hversu marga leiki þarf að vinna |
