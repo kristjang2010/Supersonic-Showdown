@@ -1,8 +1,6 @@
 # Super Sonic Showdown-reglur
-
-Reglur
-
-Reglur
+\
+# Reglur
 
 Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja þeir leikmannin á BYRJA reitinn. Allir leikmenn ætla að kasta teningnum einu sinni og sá sem fær hæstu töluna byrjar. Svo kasta allir leikmennirnir teningnum einn á eftir öðrum. Á reitunum sem leikmenn lenda á þar gerist einhvað.
 
@@ -47,7 +45,7 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
  
 
 
-## Spil
+### Spil
 | Mechs  |  Rumble |
 | ------------- | ------------- |
 | Demolition  | Magnetizer/segull  |
@@ -62,7 +60,7 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
 | Bump  | Freezer/frystir  |
 | Pinch  | Swapper/skiptir  |
 
-## Mechs
+### Mechs
 | Nafn  |  Hvað það gerir |
 | ------------- | ------------- |
 Demolition | hinn gæjinn tapar strax, þarf að nota áður en kastað
@@ -79,7 +77,7 @@ Pinch | ef þú kastar 5 eða 6 þá vinnuru ef ekki þá tapar þú, þarf að 
 
 
 
-Rumble
+### Rumble
 | Nafn     | Hvað það gerir |
 | ---      | ---       |
 | Magnetizer/segull | +2 við kastið þitt, þarf að nota áður en kastað |
