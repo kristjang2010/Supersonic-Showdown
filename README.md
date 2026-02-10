@@ -10,13 +10,13 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
 
 	Solo queue
 		Leikmaður kastar teningi, ef hann kastar 1-3 þá fer hann niður um rank, 4-5 
-ekkert gerist og 6 rank up.
+		ekkert gerist og 6 rank up.
 	1v1
 		Leikur og þú ræður við hvaða spilara þú spilar við. Báðir leikmenn taka einn 
-tening og kasta honum, sá sem fær hærri tölu vinnur og rankar upp hinn 
-rankar niður (ekki hægt að ranka lægra en bronze). Þið þurfið samt að ákveða 
-áður en kastað er hvort þið ætlið að nota einhver spil nema nokkur.
-Rumble
+		tening og kasta honum, sá sem fær hærri tölu vinnur og rankar upp hinn 
+		rankar niður (ekki hægt að ranka lægra en bronze). Þið þurfið samt að ákveða 
+		áður en kastað er hvort þið ætlið að nota einhver spil nema nokkur.
+	Rumble
 		+1 Rumble spil.
 	Freeplay
 		+1 mechs spil sem getur hjálpað þér að vinna 1v1 og ranka upp.
@@ -34,10 +34,10 @@ Rumble
 		Reiturinn sem allir leikmenn byrja á.
 	Rule one
 		Rule one virkar eins og fangelsi í Monopoly, þú verður þar í þrjár umferðir ef 
-þú annað hvort dregur spil sem segir þér að fara í rule one eða lendir á “Beint 
-í rule one”.
+		þú annað hvort dregur spil sem segir þér að fara í rule one eða lendir á “Beint 
+		í rule one”.
 	Rank up
-		Einfaldur takki þú ferð upp um rank.
+		Einfaldur reitur þú ferð upp um rank.
 	Beint í rule one
 		Virkar eins og beint í fangelsi í Monopoly nema þú ferð beint í rule one
 
