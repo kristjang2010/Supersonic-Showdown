@@ -116,6 +116,7 @@ Super Sonic Legend | Vinnur
 #### Kick of
 Stundum yfir leikin mun svo lýsast ljós á miðju borðsins sá sem er fyrstur að ýta á takkan í miðjunni fær rank up
 
+### Mynd af Prótótýpu af spilinu
 <img width="3060" height="4080" alt="image" src="https://github.com/user-attachments/assets/23840f0f-623e-49f8-a49e-d984a2bd4305" />
 
 
