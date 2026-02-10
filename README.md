@@ -50,6 +50,7 @@ Leikmenn byrja á því að velja sér leikmann til að spila fyrir, svo setja �
 
 
 ### Spil
+
 | Mechs  |  Rumble |
 | ------------- | ------------- |
 Demolition  | Magnetizer/segull
@@ -65,6 +66,7 @@ Bump  | Freezer/frystir
 Pinch  | Swapper/skiptir
 
 ### Mechs
+
 | Nafn  |  Hvað það gerir |
 | ------------- | ------------- |
 Demolition | hinn gæjinn tapar strax, þarf að nota áður en kastað
@@ -82,6 +84,7 @@ Pinch | ef þú kastar 5 eða 6 þá vinnuru ef ekki þá tapar þú, þarf að 
 
 
 ### Rumble
+
 | Nafn     | Hvað það gerir |
 | ---      | ---       |
 Magnetizer/segull | +2 við kastið þitt, þarf að nota áður en kastað 
