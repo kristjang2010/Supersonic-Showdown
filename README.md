@@ -128,9 +128,10 @@ Hér er linkur á kóðan okkar file:///C:/Users/krist/Downloads/klara%C3%B0%20v
 
 ### Myndir af loknu verkefni
 
-
-# Myndir af loknu verkefni
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4381ff57-1917-41f7-9b2b-990e9926f73c" />
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/97b1aaba-c538-4ca1-8a8d-bca0682eeb0c" />
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/a4e5eb3d-a4ec-4515-9024-160603002a2e" />
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c1574229-39c2-454e-b6f0-43a38ceb5711" />
+
+### Myndband af okkur spila fullkláraða spilið
+
