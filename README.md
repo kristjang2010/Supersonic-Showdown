@@ -135,3 +135,7 @@ Hér er linkur á kóðan okkar file:///C:/Users/krist/Downloads/klara%C3%B0%20v
 
 ### Myndband af okkur spila fullkláraða spilið
 
+https://github.com/user-attachments/assets/62d9cde2-ee76-41d6-9541-6bf93937cfb7
+
+
+
