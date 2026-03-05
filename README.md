@@ -114,7 +114,7 @@ Grand champion | Þarft að vinna þrjá leiki til að fara upp um rank
 Super Sonic Legend | Vinnur
 
 #### Kick of
-Stundum yfir leikin mun svo lýsast ljós á miðju borðsins sá sem er fyrstur að ýta á takkan í miðjunni fær rank up
+Stundum yfir leikin mun svo lýsast ljós á miðju borðsins sá sem er fyrstur að ýta á takkan í miðjunni fær rank up, þetta er samt bara af ljósið blikkar þrisvar sinnum og helst síðan kveikt ef það helst ekki kveikt þá var þetta "fake" kick of svo ekkert gerist
 
 ### Mynd af Prótótýpu af spilinu
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/23840f0f-623e-49f8-a49e-d984a2bd4305" />
