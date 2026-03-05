@@ -120,9 +120,10 @@ Stundum yfir leikin mun svo lýsast ljós á miðju borðsins sá sem er fyrstur
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/23840f0f-623e-49f8-a49e-d984a2bd4305" />
 
 
-
 ### Spilin
 Hér er linkur á spilin okkar https://www.canva.com/design/DAHA6_uFJro/wtrmGAJQVY4lfLiokGrTVQ/view?utm_content=DAHA6_uFJro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6953c5a24b 
 
 ### Kóði 
 Hér er linkur á kóðan okkar file:///C:/Users/krist/Downloads/klara%C3%B0%20verkefni.py 
+
+### Myndir af loknu verkefni
